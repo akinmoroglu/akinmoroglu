@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akinmoroglu
 - 👀 I’m interested in creating things
-- 🌱 I’m currently learning how computers work
-- 💞️ I’m looking to collaborate on anyhting you think can be good for someone else
 - 📫 How to reach me: @akinmoroglu handle
 
 <!---
